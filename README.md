@@ -13,4 +13,4 @@ Unfortunately, this is not a full repository, as github wouldn’t let me upload
 ![First Screenshot](https://raw.githubusercontent.com/splitty/RainyWindowSimulation/master/screenshots/1.JPG)
 ![Second Screenshot](https://raw.githubusercontent.com/splitty/RainyWindowSimulation/master/screenshots/2.JPG)
 
-## Link To Video Of Running Sketch
+## [Click Here To See It Running](https://www.youtube.com/watch?v=lhaVifoSVOg "Rainy Window Sim Youtube Link")
